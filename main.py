@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from drawer import CustomDrawer
 from nicegui import ui
-from nicegui import ui
 
 @ui.page('/page_layout')
 def page_layout():
